@@ -1,4 +1,4 @@
-LIBS = -lsporth -lsoundpipe -lsndfile -lm -ldl -lrunt -lpthread
+LIBS = -lsporth -ljack -lsoundpipe -lsndfile -lm -ldl -lrunt -lpthread
 CFLAGS = -fPIC -O3 -Wall -ansi -g
 
 # Local Runt
